@@ -1,2 +1,9 @@
-# naraba-bot-ts
-Mon bot Discor Naraba crée en TypeScript.
+# Naraba Bot
+Mon bot Discord Naraba crée en TypeScript.
+# Invitation 
+*non disponible*
+
+# Modules
+- Discord.js
+- Fs
+- Enmap
