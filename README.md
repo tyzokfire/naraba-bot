@@ -1,5 +1,5 @@
 # Naraba Bot
-Mon bot Discord Naraba crée en TypeScript.
+Mon bot Discord Naraba crée en JavaScript.
 # Invitation 
 *non disponible*
 
@@ -7,3 +7,6 @@ Mon bot Discord Naraba crée en TypeScript.
 - Discord.js
 - Fs
 - Enmap
+
+# Crédits
+- Developpeur : TyzokSnpai.#0076 | @RealTyzok
