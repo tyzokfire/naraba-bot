@@ -1,0 +1,30 @@
+{
+  "name": "narabaa",
+  "version": "1.0.2",
+  "description": "bot discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyzokfire/naraba-bot.git"
+  },
+  "keywords": [
+    "Tyzok",
+    "Discord",
+    "Naraba"
+  ],
+  "author": "Tyzok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tyzokfire/naraba-bot/issues"
+  },
+  "homepage": "https://github.com/tyzokfire/naraba-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "enmap": "^5.8.2",
+    "fs": "0.0.1-security",
+    "better-sqlite3": "5.4.0"
+  }
+}
