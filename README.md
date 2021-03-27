@@ -1,4 +1,4 @@
-# Naraba Bot
+# Arion Bot
 Mon bot Discord Naraba crée en JavaScript.
 # Invitation 
 *non disponible*
