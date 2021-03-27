@@ -9,4 +9,4 @@ Mon bot Discord Naraba crée en JavaScript.
 - Enmap
 
 # Crédits
-- Developpeur : TyzokSnpai.#0076 | @RealTyzok
+- Developpeur : Tyzokslimed#0076 | @RealTyzok
